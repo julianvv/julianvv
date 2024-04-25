@@ -1,4 +1,12 @@
-### Hi there 👋
+# About me
+I'm Julian a 23 year old student software engineer from the Netherlands.
+My passion is mobile development but I also like backend development and API crafting 🤓
+
+## Hobbies
+- Programming
+- Designing
+- Gaming
+- Watching TV shows
 
 <!--
 **julianvv/julianvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
